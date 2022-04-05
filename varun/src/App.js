@@ -1,12 +1,12 @@
 
-
 import './App.css';
-import Main from './components/main/main';
+
+import SearchStates from './components/search/search';
 
 function App() {
   return (
     <div className="App">
-    <Main />
+    <SearchStates />
     </div>
   );
 }
